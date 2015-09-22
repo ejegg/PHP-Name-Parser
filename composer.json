@@ -1,0 +1,10 @@
+{
+	"name": "joshfraser/name-parser",
+	"description": "Parse human names into their components",
+	"license": "Apache-2.0",
+	"autoload": {
+		"classmap": [
+			"parser.php"
+		]
+	}
+}
